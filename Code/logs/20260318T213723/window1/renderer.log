@@ -1,0 +1,12 @@
+2026-03-18 21:37:24.210 [info] Started local extension host with pid 195630.
+2026-03-18 21:37:24.368 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:37:25.153 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-18 21:37:25.194 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-18 21:37:26.805 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2026-03-18 21:37:27.054 [info] [perf] Render performance baseline is 131ms

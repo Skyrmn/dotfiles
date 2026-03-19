@@ -1,0 +1,30 @@
+2026-03-18 22:16:20.714 [info] Started local extension host with pid 271053.
+2026-03-18 22:16:20.909 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 22:16:21.581 [error] [Extension Host] (node:271053) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-18 22:16:21.661 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-18 22:16:22.115 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-18 22:16:23.196 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2026-03-18 22:16:23.526 [info] [perf] Render performance baseline is 131ms
+2026-03-18 22:16:28.139 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/home/.config/images/asda.png
+2026-03-18 22:16:28.139 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/.config/images/wasd.png
+2026-03-18 22:16:50.005 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2026-03-18 22:16:51.276 [error] Cannot read the extension from /home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64: ScanningExtension: Cannot read the extension from /home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64
+    at Jh.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75261)
+2026-03-18 22:17:20.596 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png
+2026-03-18 22:17:20.596 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/.config/images/wasd.png
+2026-03-18 22:17:28.954 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png
+2026-03-18 22:17:28.954 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png
+2026-03-18 22:17:30.685 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png
+2026-03-18 22:17:30.686 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png
+2026-03-18 22:18:04.767 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/images/asda.png
+2026-03-18 22:18:04.768 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png
+2026-03-18 22:18:05.704 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/asda.png
+2026-03-18 22:18:05.704 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png, resourceToLoad=file:///home/Evethey/.config/home/Evethey/.config/images/wasd.png
+2026-03-18 22:18:12.394 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/Evethey/.config/images/asda.png, resourceToLoad=file:///home/Evethey/.config/images/asda.png

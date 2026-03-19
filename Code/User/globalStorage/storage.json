@@ -1,0 +1,99 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "171d3ae83eda0d26be788c7ea4c0539f1d0cdbbcf32902916bae63f7125439ee",
+    "telemetry.devDeviceId": "ff764182-2936-4de5-a695-ab8bc76cd62c",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/Evethey/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 50,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/Evethey/dotfiles/waybar": "__default__profile__",
+            "file:///home/Evethey/.config/waybar": "__default__profile__",
+            "file:///home/Evethey/.config/cava": "__default__profile__",
+            "file:///home/Evethey/Documents": "__default__profile__",
+            "file:///home/Evethey/artics": "__default__profile__",
+            "file:///home/Evethey/.config": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/Evethey/.config",
+            "backupPath": "/home/Evethey/.config/Code/Backups/93e261845421847dc7c73ad39dab6854",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080,
+                "zoomLevel": 2
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#2c2a35",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#e0e2f0",
+            "background": "#2c2a35",
+            "editorBackground": "#2c2a35",
+            "titleBarBackground": "#2c2a35",
+            "activityBarBackground": "#26242e",
+            "sideBarBackground": "#2f2d39",
+            "statusBarBackground": "#211f28",
+            "statusBarNoFolderBackground": "#23262e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 9007199254740991,
+            "workspaces": {
+                "a3090389de8dda836003d2bd702cbd30": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f09c6884a675c9735b4b5b11d891ab27": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a0fc529fe0782e2ba5d3541eef3914af": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "23e57a530a8b585a58474d15ce95b6f9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e3b28d1a4ca06045546952cbad4e242f": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "179a80bc6b1bb989cf0294d4cb054b43": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

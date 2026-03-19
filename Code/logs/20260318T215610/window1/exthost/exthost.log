@@ -1,0 +1,15 @@
+2026-03-18 21:56:11.323 [info] Extension host with pid 226827 started
+2026-03-18 21:56:11.323 [info] Skipping acquiring lock for /home/Evethey/.config/Code/User/workspaceStorage/179a80bc6b1bb989cf0294d4cb054b43.
+2026-03-18 21:56:11.533 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-18 21:56:11.554 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-18 21:56:11.568 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-03-18 21:56:11.935 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-03-18 21:56:11.995 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-03-18 21:56:12.043 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-18 21:56:12.188 [info] Eager extensions activated
+2026-03-18 21:56:12.204 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 21:56:12.205 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 21:56:12.222 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 21:56:12.234 [info] ExtensionService#_doActivateExtension shalldie.background, startup: false, activationEvent: 'onStartupFinished'
+2026-03-18 21:57:34.317 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-18 21:57:34.332 [info] Extension host with pid 226827 exiting with code 0

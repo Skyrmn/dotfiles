@@ -1,0 +1,22 @@
+2026-03-18 21:35:44.600 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.624 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.627 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.763 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.775 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.858 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.932 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:44.994 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.038 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.087 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.132 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.160 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.190 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:45.471 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:47.505 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:49.257 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:35:51.621 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:36:14.723 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-03-18 21:36:14.933 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.111.0","date":"2026-03-07T01:20:48.148Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/Evethey/.vscode/extensions/extensions.json","path":"/home/Evethey/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-03-18 21:36:15.015 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:36:15.017 [error] Error while installing the extension ms-python.vscode-python-envs Cannot read the extension from /home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64 vscode-userdata:/home/Evethey/.vscode/extensions/extensions.json
+2026-03-18 21:36:15.039 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.

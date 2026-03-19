@@ -1,0 +1,15 @@
+2026-03-18 21:56:10.899 [info] Started local extension host with pid 226827.
+2026-03-18 21:56:12.028 [info] MCP Registry configured: https://api.mcp.github.com
+2026-03-18 21:56:12.065 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-03-18 21:56:13.372 [warning] 
+
+----------------------------------------------
+***	Installation has been modified on disk ***
+----------------------------------------------
+
+
+2026-03-18 21:56:13.690 [info] [perf] Render performance baseline is 129ms
+2026-03-18 21:56:13.980 [error] [/home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64]: Extension is not compatible with Code 1.109.2. Extension requires: ^1.110.0-20260204.
+2026-03-18 21:56:40.298 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2026-03-18 21:56:41.594 [error] Cannot read the extension from /home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64: ScanningExtension: Cannot read the extension from /home/Evethey/.vscode/extensions/ms-python.vscode-python-envs-1.22.0-linux-x64
+    at Jh.scanLocalExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75261)

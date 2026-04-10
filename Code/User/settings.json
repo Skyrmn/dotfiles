@@ -1,4 +1,6 @@
 {
+  "editor.fontFamily": "JetBrainsMono Nerd Font, monospace",
+  "editor.fontSize": 16,
   "background.fullscreen": {
    "images": [
 

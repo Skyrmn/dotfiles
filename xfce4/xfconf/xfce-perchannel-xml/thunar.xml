@@ -9,6 +9,6 @@
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-renamer-dialog-maximized" type="bool" value="true"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,132,50,50,92,50,50,131,50,50,78,50,439"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,132,50,50,958,50,50,227,50,50,77,50,593"/>
   <property name="misc-confirm-close-multiple-tabs" type="bool" value="false"/>
 </channel>

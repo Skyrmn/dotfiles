@@ -1,1 +1,1 @@
-{"simpleBrowser.useIntegratedBrowser":true,"python.locator":"native","http.systemCertificatesNode":true,"chat.tips.enabled":true,"chat.editMode.hidden":true,"chat.experimental.useSkillAdherencePrompt":true}
+{"simpleBrowser.useIntegratedBrowser":true,"python.locator":"native","http.systemCertificatesNode":true,"chat.experimental.useSkillAdherencePrompt":true,"terminal.integrated.windowsUseConptyDll":true}

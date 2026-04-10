@@ -11,7 +11,7 @@
         ],
         "emptyWindows": []
     },
-    "windowControlHeight": 50,
+    "windowControlHeight": 42,
     "profileAssociations": {
         "workspaces": {
             "file:///home/Evethey/dotfiles/waybar": "__default__profile__",
@@ -33,7 +33,7 @@
                 "y": 0,
                 "width": 1920,
                 "height": 1080,
-                "zoomLevel": 2
+                "zoomLevel": 1
             }
         },
         "openedWindows": []

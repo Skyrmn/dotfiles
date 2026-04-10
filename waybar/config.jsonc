@@ -16,19 +16,21 @@
 
     "modules-right": [
         "wireplumber", 
-        // "network", 
+        "network", 
         "cpu",
         "clock",
     ],
 
+
+
     "custom/spotify": {
-        "format": " {}",
+        "format": "* {}",
         "max-length": 20,
         "interval": 1,
         "exec": "$HOME/.config/waybar/mediaplayer.sh 2> /dev/null",
         "exec-if": "pgrep spotify"
     },
-
+    
     "wireplumber": {
         "format": "{icon} {volume}%",
         "format-icons": ["", "", "󰕾", ""],
@@ -57,7 +59,7 @@
     },
     
     "network": {
-        // "interface": "wlp2s0", // (Optional) To force the use of this interface
+        "interface": "wlp2s0", // (Optional) To force the use of this interface
         "on-click": "alacritty -e nmtui",
         "format-wifi": "  {essid} ",
         "format-ethernet": "󰈀 {ifname}",
